@@ -1,5 +1,4 @@
-<iframe style="border:none;padding:0px 0px 30px 0px;width:100%" src="https://liavbarsheshet.github.io/console-writer/" >
-</iframe>
+# > console-writer_
 
 Creates console text typing animation from any element.
 
