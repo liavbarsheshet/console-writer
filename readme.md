@@ -86,7 +86,7 @@ _Promises animation chain._
 ```js
 const element = document.querySelector(`#demo-element`);
 const animation = ConsoleWriter(element, { speed: 500, delay: 0 });
-await animation.start()
+await animation.startAsync()
 .then(() => {
   animation.finish();
 })
