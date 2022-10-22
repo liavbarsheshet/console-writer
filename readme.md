@@ -9,7 +9,7 @@ Create console text typing animation from any element.
    > Download js file from git.
    > Add <script src="/[YOUR_PATH]/console-writer" />.
    > # OR #
-   >
+   > Add <script src="https://raw.githubusercontent.com/liavbarsheshet/console-writer/main/console-writer.min.js">
    ```
 2. Add keyframe to your stylesheet
    ```css
